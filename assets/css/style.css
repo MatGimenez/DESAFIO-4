@@ -41,6 +41,11 @@ address p{
      align-content: center;
      align-items: end;
 }
+.texto-contacto{
+     font-size: 2rem;
+     font-weight: 500;
+}
+
 footer h2{
      font-family: "Playwrite DK Uloopet";
      color:#707070;
